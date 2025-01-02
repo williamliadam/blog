@@ -1,4 +1,4 @@
-# 浏览器原理
+# Browser Principles
 tags: #浏览器 #前端 #面试准备
 
 ## 相关链接

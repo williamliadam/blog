@@ -1,4 +1,4 @@
-# JavaScript 核心
+# JavaScript Core
 tags: #JavaScript #前端 #面试准备
 
 ## 相关链接
