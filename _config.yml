@@ -16,7 +16,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-url: https://tech-blog.example.com
+url: https://williamliadam.github.io/blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
