@@ -1,7 +1,8 @@
-# Senior Frontend Engineer Interview Preparation Outline
-## 高级前端工程师面试准备大纲
+---
+title: 高级前端工程师面试准备大纲
+date: 2023-01-18 00:00:00
 tags: #面试准备 #前端 #目录
-
+---
 ## 1. JavaScript 核心
 - 原型与原型链
 - 作用域与闭包
