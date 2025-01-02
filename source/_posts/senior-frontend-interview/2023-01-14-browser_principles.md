@@ -1,8 +1,10 @@
 ---
-title: 浏览器原理
-date: 2023-01-18 00:00:00
+title: Browser Principles
+date: 2023-01-14 00:00:00
+categories:
+  - 前端面试
 tags: 
-  - 浏览器
+  - 浏览器原理
   - 前端
   - 面试准备
 ---

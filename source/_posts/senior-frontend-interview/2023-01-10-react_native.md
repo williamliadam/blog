@@ -1,9 +1,11 @@
 ---
 title: React Native
 date: 2023-01-10 00:00:00
+categories:
+  - 前端面试
 tags: 
-  - ReactNative
-  - 移动端
+  - React Native
+  - 移动端开发
   - 面试准备
 ---
 

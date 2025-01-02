@@ -1,6 +1,8 @@
 ---
-title: 测试策略
+title: Testing Strategies
 date: 2023-01-09 00:00:00
+categories:
+  - 前端面试
 tags: 
   - 测试策略
   - 前端

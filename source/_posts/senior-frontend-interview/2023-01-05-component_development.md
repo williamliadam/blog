@@ -1,8 +1,10 @@
 ---
-title: 组件化开发
+title: Component Development
 date: 2023-01-05 00:00:00
+categories:
+  - 前端面试
 tags: 
-  - 组件化
+  - 组件开发
   - 前端
   - 面试准备
 ---

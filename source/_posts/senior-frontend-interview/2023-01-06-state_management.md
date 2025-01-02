@@ -1,6 +1,8 @@
 ---
-title: 状态管理
+title: State Management
 date: 2023-01-06 00:00:00
+categories:
+  - 前端面试
 tags: 
   - 状态管理
   - 前端

@@ -1,8 +1,10 @@
 ---
-title: 网络基础
-date: 2023-01-18 00:00:00
+title: Networking Basics
+date: 2023-01-15 00:00:00
+categories:
+  - 前端面试
 tags: 
-  - 网络
+  - 网络基础
   - 前端
   - 面试准备
 ---
