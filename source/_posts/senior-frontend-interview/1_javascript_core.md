@@ -1,14 +1,10 @@
 # JavaScript Core
+## JavaScript 核心
 tags: #JavaScript #前端 #面试准备
 
 ## 相关链接
-- [[2. HTML & CSS]]
-- [[3. 前端框架]]
-- [[4. 性能优化]]
-- [[7. 浏览器原理]]
 
 ## 目录
-[[toc]]
 
 ## 基础概念
 - 数据类型与类型转换

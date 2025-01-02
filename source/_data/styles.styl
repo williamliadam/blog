@@ -1,0 +1,82 @@
+// Custom Styles for Tech Blog
+
+// Color Scheme
+$main-color = #1abc9c
+$secondary-color = #3498db
+$text-color = #2c3e50
+$background-color = #ffffff
+$dark-background-color = #2c3e50
+$dark-text-color = #ecf0f1
+
+// Typography
+body
+  font-family: 'PingFang SC', 'Helvetica Neue', Arial, sans-serif
+  color: $text-color
+  line-height: 1.8
+  font-size: 16px
+
+h1, h2, h3, h4, h5, h6
+  font-weight: 600
+  margin: 1.5em 0 0.8em
+  color: $main-color
+
+// Links
+a
+  color: $secondary-color
+  text-decoration: none
+  transition: color 0.2s ease
+
+  &:hover
+    color: darken($secondary-color, 20%)
+
+// Code Blocks
+pre, code
+  font-family: 'Fira Code', 'Consolas', monospace
+  background-color: #f8f9fa
+  border-radius: 4px
+
+// Dark Mode
+.dark-mode
+  background-color: $dark-background-color
+  color: $dark-text-color
+
+  a
+    color: lighten($secondary-color, 20%)
+
+    &:hover
+      color: $secondary-color
+
+// Responsive Design
+@media (max-width: 768px)
+  body
+    font-size: 14px
+
+  .sidebar
+    display: none
+
+// Custom Components
+.post
+  margin: 2em 0
+  padding: 1.5em
+  background: #fff
+  border-radius: 8px
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1)
+
+  .post-title
+    font-size: 2em
+    margin-bottom: 0.5em
+
+  .post-meta
+    color: #95a5a6
+    font-size: 0.9em
+    margin-bottom: 1.5em
+
+// Animations
+.fade-in
+  animation: fadeIn 0.5s ease
+
+@keyframes fadeIn
+  from
+    opacity: 0
+  to
+    opacity: 1

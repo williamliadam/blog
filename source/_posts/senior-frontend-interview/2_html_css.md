@@ -1,14 +1,10 @@
 # HTML and CSS
+## HTML 与 CSS
 tags: #HTML #CSS #前端 #面试准备
 
 ## 相关链接
-- [[1. JavaScript 核心]]
-- [[3. 前端框架]]
-- [[4. 性能优化]]
-- [[7. 浏览器原理]]
 
 ## 目录
-[[toc]]
 
 ## HTML 基础
 - HTML语义化

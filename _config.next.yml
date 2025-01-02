@@ -1,0 +1,98 @@
+# Next Theme Configuration
+# Docs: https://theme-next.js.org/docs/theme-settings/
+
+# Scheme Settings
+scheme: Muse
+
+# Dark Mode
+darkmode: true
+
+# Menu Settings
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+  # Add more menu items as needed
+
+# Sidebar Settings
+sidebar:
+  position: left
+  display: post
+  offset: 12
+  b2t: false
+  scrollpercent: true
+
+# Post Settings
+post:
+  copyright:
+    enable: true
+    license: CC BY-NC-SA 4.0
+  reward:
+    enable: true
+    wechatpay: /images/wechatpay.png
+    alipay: /images/alipay.png
+  meta:
+    item_text: true
+    created_at: true
+    updated_at: true
+    categories: true
+    tags: true
+
+# Social Links
+social:
+  GitHub: https://github.com/yourusername || fab fa-github
+  Twitter: https://twitter.com/yourusername || fab fa-twitter
+  Weibo: https://weibo.com/yourusername || fab fa-weibo
+  # Add more social links as needed
+
+# Search Settings
+search:
+  path: search.xml
+  field: post
+  content: true
+
+# Analytics
+google_analytics:
+  tracking_id: 
+baidu_analytics:
+  tracking_id: 
+
+# Comment System
+comments:
+  active: gitalk
+  storage: true
+  lazyload: true
+  nav:
+    gitalk: Gitalk
+
+# Code Highlight
+codeblock:
+  highlight_theme: default
+  copy_button:
+    enable: true
+    show_result: true
+    style: flat
+
+# Customization
+custom_file_path:
+  style: source/_data/styles.styl
+  script: source/_data/scripts.njk
+
+# Miscellaneous
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+# Animation
+motion:
+  enable: true
+  async: false
+  transition:
+    post_block: fadeIn
+    post_header: fadeInDown
+    post_body: fadeInDown
+    coll_header: fadeInLeft
+    sidebar: fadeInUp

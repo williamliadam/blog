@@ -1,14 +1,6 @@
 # Performance Optimization
+## 性能优化
 tags: #性能优化 #前端 #面试准备
-
-## 相关链接
-- [[1. JavaScript 核心]]
-- [[2. HTML & CSS]]
-- [[3. 前端框架]]
-- [[7. 浏览器原理]]
-
-## 目录
-[[toc]]
 
 ## 网络优化
 - 减少HTTP请求
