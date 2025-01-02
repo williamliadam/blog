@@ -1,7 +1,10 @@
 ---
 title: 全栈框架
 date: 2023-01-19 00:00:00
-tags: #全栈框架 #Next.js #Nuxt.js
+tags: 
+  - 全栈框架
+  - Next.js
+  - Nuxt.js
 ---
 
 # 全栈框架

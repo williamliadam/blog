@@ -1,7 +1,10 @@
 ---
 title: JavaScript Core
 date: 2023-01-01 00:00:00
-tags: #JavaScript #前端 #面试准备
+tags: 
+  - JavaScript
+  - 前端
+  - 面试准备
 ---
 
 # JavaScript Core
