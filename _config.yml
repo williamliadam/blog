@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tech Blog
+title: Willy 屋
 subtitle: '前沿技术分享与开发实践'
 description: '专注于前端开发、后端架构、性能优化等技术的深度解析与实践分享'
 keywords: 
@@ -11,7 +11,7 @@ keywords:
   - 后端架构
   - 性能优化
   - 技术博客
-author: 技术达人
+author: William Li
 language: zh-CN
 timezone: Asia/Shanghai
 
